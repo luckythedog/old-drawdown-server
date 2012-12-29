@@ -135,6 +135,7 @@ void* connectionThread(void *) {
 		}
 		num_of_poll_sockets = poll_sockets.size();
 	}
+
 	return 0;
 }
 bool loginPlayer(player* player_object, string username, string password){
