@@ -1,0 +1,1 @@
+newbies_drawing_data.ddf;0;regulars_drawing_data.ddf;1;highrollers_drawing_data.ddf;2;
